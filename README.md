@@ -1,4 +1,4 @@
-#  :earth_americas: Olá, mundo!:
+#  :earth_americas: Olá, mundo!
 🔭 Sou Bacharel em Ciência e Tecnologia e estudante de Eng. da computação pela UFBA.<br>
 🌱 Estou aprendendo sobre desenvolvimento full stack.<br>
 ⚡ Sou gamer e adoro xadrez.
