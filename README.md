@@ -53,9 +53,9 @@
 
 | Projeto | Descrição |
 |---------|-----------|
-| **🛒 [iBuy](https://ibuy-bym.web.app/)** | Aplicação web para gerenciamento de compras, desenvolvida utilizando o ecossistema flutter. |
-| **⚖️ [Assessoria Jurídica Especializada](https://www.assessoriajuridicaespecializada.com/)** | Site institucional de um escritório de advocacia, desenvolvido com foco em desempenho, SEO e experiência do usuário. |
-| **📦 [Timeline Tainacan](https://github.com/Oonailime/time-line-tainacan)** | Plugin para WordPress/Tainacan que organiza itens do acervo em uma linha do tempo interativa para facilitar a navegação cronológica. |
+| 🛒 **[iBuy](https://ibuy-bym.web.app/)** | Aplicação web para gerenciamento de compras, desenvolvida utilizando o ecossistema Flutter. |
+| ⚖️ **[AJE](https://www.assessoriajuridicaespecializada.com/)** | Site institucional da Assessoria Jurídica Especializada, desenvolvido com foco em desempenho, SEO e experiência do usuário. |
+| 📦 **[Timeline Tainacan](https://github.com/Oonailime/time-line-tainacan)** | Plugin para WordPress/Tainacan que organiza itens do acervo em uma linha do tempo interativa. |
 
 
 ## 🌐 Rede social:
