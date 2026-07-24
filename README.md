@@ -5,7 +5,7 @@
 
 # :octocat: GitHub:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Oonailime&theme=dark&hide_border=false) 
+![](https://streak-stats.demolab.com/?user=Oonailime&theme=dark&hide_border=false) 
 
 
 # 💻 Tecnologias que já utilizei:
@@ -14,7 +14,7 @@
 
 
 ## 🌐 Rede social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/emiliano-calado-6638792a3) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliano-calado-6638792a3) 
 
 
 
