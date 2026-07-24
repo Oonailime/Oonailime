@@ -8,7 +8,6 @@
 ![](https://streak-stats.demolab.com/?user=Oonailime&theme=dark&hide_border=false) 
 
 
-# 💻 Tecnologias que já utilizei:
 # 💻 Tecnologias que já utilizei
 
 ### 👨‍💻 Linguagens
