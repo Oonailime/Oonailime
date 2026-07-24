@@ -49,6 +49,13 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Tainacan](https://img.shields.io/badge/Tainacan-5B3DF5?style=for-the-badge)
 
+## 🚀 Projetos
+
+| Projeto | Descrição |
+|---------|-----------|
+| **🛒 [iBuy](https://ibuy-bym.web.app/)** | Aplicação web para gerenciamento de compras, desenvolvida utilizando tecnologias modernas do ecossistema JavaScript. |
+| **⚖️ [Assessoria Jurídica Especializada](https://www.assessoriajuridicaespecializada.com/)** | Site institucional de um escritório de advocacia, desenvolvido com foco em desempenho, SEO e experiência do usuário. :contentReference[oaicite:1]{index=1} |
+| **📦 [Timeline Tainacan](https://github.com/Oonailime/time-line-tainacan)** | Plugin para WordPress/Tainacan que organiza itens do acervo em uma linha do tempo interativa para facilitar a navegação cronológica. |
 
 
 ## 🌐 Rede social:
