@@ -5,7 +5,7 @@
 
 # :octocat: GitHub:
 
-![](https://streak-stats.demolab.com/?user=Oonailime&theme=dark&hide_border=false) 
+![]([https://streak-stats.demolab.com/?user=Oonailime&theme=dark&hide_border=false](https://github-readme-streak-stats-eight.vercel.app/?user=Oonailime)) 
 
 
 # 💻 Tecnologias que já utilizei
